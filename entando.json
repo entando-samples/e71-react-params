@@ -9,8 +9,8 @@
             "group": "free",
             "publicFolder": "public",
             "titles": {
-                "en": "Simple Configurable MFE",
-                "it": "Simple Configurable MFE"
+                "en": "E71 Simple Configurable MFE",
+                "it": "E71 Simple Configurable MFE"
             },
             "configMfe": "simple-mfe-config",
             "params": [
@@ -18,6 +18,12 @@
                     "name": "name",
                     "description": "The name for this Hello World app"
                 }
+            ],
+            "contextParams": [
+                "page_code",
+                "info_startLang",
+                "info_currentLang",
+                "systemParam_applicationBaseURL"
             ]
         },
         {
