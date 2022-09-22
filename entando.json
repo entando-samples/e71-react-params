@@ -9,8 +9,8 @@
             "group": "free",
             "publicFolder": "public",
             "titles": {
-                "en": "E71 Simple Configurable MFE",
-                "it": "E71 Simple Configurable MFE"
+                "en": "E71 Configurable MFE with params",
+                "it": "E71 Configurable MFE with params"
             },
             "configMfe": "simple-mfe-config",
             "params": [
