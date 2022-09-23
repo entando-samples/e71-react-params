@@ -21,7 +21,6 @@
             ],
             "contextParams": [
                 "page_code",
-                "info_startLang",
                 "info_currentLang",
                 "systemParam_applicationBaseURL"
             ]
